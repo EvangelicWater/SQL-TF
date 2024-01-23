@@ -1,0 +1,1 @@
+SELECT DISTINCT Estado FROM Pedidos;
